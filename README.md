@@ -1,5 +1,5 @@
 # Hello there! <br>
-Check out My ***[Portfolio](http://abhisekjha.com.np/)*** and My ***[Blog](https://abhisekjha.wordpress.com/)***
+Check out My ***[Portfolio](http://abhisekjha.com.np/)*** 
 
 This is my ***[WEB CV](http://abhisekjha.com.np/resume.html)***
 
