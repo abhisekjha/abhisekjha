@@ -16,7 +16,7 @@ My technical journey is complemented by a strong portfolio of projects ranging f
 `5G Network` `Natural Language Processing` `Conversational AI` `Quantum Computing` `Internet Security` 
 
 <details>
-<summary>👨‍🚀 More ...</summary>
+<summary>👨‍🚀 More...</summary>
        
 ![Visitor Count](https://komarev.com/ghpvc/?username=abhisekjha&color=blue)
 
