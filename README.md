@@ -26,7 +26,6 @@ My technical journey is complemented by a strong portfolio of projects ranging f
   <img src="https://simpleicons.org/icons/python.svg" alt="Python" width="30" height="30"/>
   <img src="https://simpleicons.org/icons/cplusplus.svg" alt="C++" width="30" height="30"/>
   <img src="https://simpleicons.org/icons/csharp.svg" alt="C#" width="30" height="30"/>
-  <img src="https://simpleicons.org/icons/quantum.svg" alt="Q#" width="30" height="30"/> <!-- Placeholder for Q# -->
   <img src="https://simpleicons.org/icons/php.svg" alt="PHP" width="30" height="30"/>
   <img src="https://simpleicons.org/icons/perl.svg" alt="Perl" width="30" height="30"/>
 </p>
@@ -52,6 +51,7 @@ My technical journey is complemented by a strong portfolio of projects ranging f
   <img src="https://simpleicons.org/icons/github.svg" alt="GitHub" width="30" height="30"/>
   <img src="https://simpleicons.org/icons/jenkins.svg" alt="Jenkins" width="30" height="30"/>
 </p>
+
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhisekjha&theme=dark" alt="GitHub Streak Stats" height="180em"/>
   <a href="https://github.com/abhisekjha">
