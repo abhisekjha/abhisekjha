@@ -5,19 +5,19 @@ I am a Computer Science enthusiast with a robust background in backend developme
 My technical journey is complemented by a strong portfolio of projects ranging from the development of a portable file system and custom memory allocation functions in C to leading the creation of a narrative-driven 2D RPG. I'm passionate about leveraging my skill set to tackle innovative projects and advance the technological landscape.
 
 ### 📊 GitHub Stats:
+
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=abhisekjha&show_icons=true&theme=radical" alt="GitHub Stats" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhisekjha&theme=dark" alt="GitHub Streak Stats" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abhisekjha&show_icons=true&theme=light" alt="GitHub Stats" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisekjha&theme=light&hide_langs_below=1" alt="Top Languages" height="180em"/>
 </p>
+
 
 ### 💼 Domains:
 `5G Network` `Natural Language Processing` `Conversational AI` `Quantum Computing` `Internet Security` 
 
 <details>
-<summary>👨‍🚀 Discover More About Me</summary>
-<br>
-        
-### 📈 Profile Views Count
+<summary>👨‍🚀 More ...</summary>
+       
 ![Visitor Count](https://komarev.com/ghpvc/?username=abhisekjha&color=blue)
 
 ### 💻 Programming Languages:
@@ -53,23 +53,9 @@ My technical journey is complemented by a strong portfolio of projects ranging f
   <img src="https://simpleicons.org/icons/jenkins.svg" alt="Jenkins" width="30" height="30"/>
 </p>
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhisekjha&theme=dark" alt="GitHub Streak Stats" height="180em"/>
+[![Trophies](https://github-profile-trophy.vercel.app/?username=abhisekjha&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="center">
-  <a href="https://github.com/abhisekjha">
-    <img height="180em" src="https://github-profile-trophy.vercel.app/?username=abhisekjha&theme=onedark" alt="Abhisek's GitHub Trophies" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/abhisekjha">
-    <img height="180em" src="https://activity-graph.herokuapp.com/graph?username=abhisekjha&theme=xcode" alt="Abhisek's GitHub Activity Graph" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/abhisekjha">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=abhisekjha.abhisekjha" alt="Visitors" />
-    <img src="https://metrics.lecoq.io/abhisekjha?template=classic&config.timezone=Asia%2FCalcutta" alt="Abhisek's GitHub Metrics" />
-  </a>
-</p>
 
 
 </details>
