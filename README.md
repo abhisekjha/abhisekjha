@@ -54,8 +54,7 @@ My technical journey is complemented by a strong portfolio of projects ranging f
 </p>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhisekjha&theme=dark" alt="GitHub Streak Stats" height="180em"/>
-[![Trophies](https://github-profile-trophy.vercel.app/?username=abhisekjha&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+<img src="https://github-profile-trophy.vercel.app/?username=abhisekjha&theme=dark" alt="Trophies" height="180em"/>
 
 
 </details>
