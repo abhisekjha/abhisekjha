@@ -11,7 +11,6 @@ My technical journey is complemented by a strong portfolio of projects ranging f
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisekjha&theme=light" alt="Top Languages" height="180em"/>
 </p>
 
-
 ### 💼 Domains:
 `5G Network` `Natural Language Processing` `Conversational AI` `Quantum Computing` `Internet Security` 
 
