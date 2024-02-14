@@ -1,6 +1,6 @@
 ### 👋 Hello World, I'm Abhisek Kumar Jha
 
-I am a Computer Science enthusiast with a robust background in backend development, security, and research, currently enriching the field of `5G Network` security at the University of Texas Arlington. My skills are not confined to just programming; they extend to critical domains like `Natural Language Processing`, `Conversational AI`, and `Quantum Computing`. I am aslo assigned a new task `Multimodal Emotion Recognition` under [`ACL Lab`](https://acl-group.github.io/). My hands-on experience and my academic journey have equipped me with a profound understanding of data structures, algorithms, and a variety of programming languages and tools. As a dedicated researcher and developer, I've collaborated on pivotal projects that have allowed me to hone my expertise in backend development, agile methodologies, DevOps, and testing. 
+I am a Computer Science enthusiast with a robust background in backend development, security, and research, currently enriching the in field of `5G Network` security at the University of Texas Arlington. My skills are not confined to just programming; they extend to critical domains like `Natural Language Processing`, `Conversational AI`, and `Quantum Computing`. I am aslo assigned a new task `Multimodal Emotion Recognition` under [`ACL Lab`](https://acl-group.github.io/). My hands-on experience and my academic journey have equipped me with a profound understanding of data structures, algorithms, and a variety of programming languages and tools. As a dedicated researcher and developer, I've collaborated on pivotal projects that have allowed me to hone my expertise in backend development, agile methodologies, DevOps, and testing. 
 
 My technical journey is complemented by a strong portfolio of projects ranging from the development of a portable file system and custom memory allocation functions in C to leading the creation of a narrative-driven 2D RPG. I'm passionate about leveraging my skill set to tackle innovative projects and advance the technological landscape.
 
@@ -50,7 +50,6 @@ My technical journey is complemented by a strong portfolio of projects ranging f
   <img src="https://simpleicons.org/icons/github.svg" alt="GitHub" width="30" height="30"/>
   <img src="https://simpleicons.org/icons/jenkins.svg" alt="Jenkins" width="30" height="30"/>
 </p>
-
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhisekjha&theme=dark" alt="GitHub Streak Stats" height="180em"/>
   <a href="https://github.com/abhisekjha">
