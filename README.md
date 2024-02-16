@@ -12,7 +12,7 @@ My technical journey is complemented by a strong portfolio of projects ranging f
 </p>
 
 ### 💼 Domains:
-`5G Network` `Natural Language Processing` `Conversational AI` `Quantum Computing` `Internet Security` 
+`5G Networks` `Natural Language Processing` `Conversational AI` `Quantum Computing` `Internet Security` 
 
 <details>
 <summary>👨‍🚀 More...</summary>
