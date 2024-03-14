@@ -26,7 +26,6 @@ My technical journey is complemented by a strong portfolio of projects ranging f
   <img src="https://simpleicons.org/icons/cplusplus.svg" alt="C++" width="30" height="30"/>
   <img src="https://simpleicons.org/icons/csharp.svg" alt="C#" width="30" height="30"/>
   <img src="https://simpleicons.org/icons/php.svg" alt="PHP" width="30" height="30"/>
-  <img src="https://simpleicons.org/icons/perl.svg" alt="Perl" width="30" height="30"/>
 </p>
 
 ### 🌐 Web Development:
