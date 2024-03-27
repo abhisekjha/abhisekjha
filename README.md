@@ -1,4 +1,4 @@
-### 👋 Hello World, I'm Abhisek Kumar Jha
+### 👋 Hello World, I'm Abhisek
 
 I am a Computer Science enthusiast with a background in backend development, security, and research, currently enriching the in field of `5G Network` security at the University of Texas Arlington `Information Coding and Security Lab`. My skills are not confined to just programming; they extend to critical domains like `Natural Language Processing`, `Conversational AI`, and `Quantum Computing`. I am also assigned a new task `Multimodal Personality` under [`ACL Lab`](https://acl-group.github.io/). I've collaborated on pivotal projects that have allowed me to use my skills in backend development, agile methodologies, and DevOps. 
 
