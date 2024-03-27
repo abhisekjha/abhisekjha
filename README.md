@@ -2,7 +2,7 @@
 
 I am a Computer Science enthusiast with a background in backend development, security, and research, currently enriching the in field of `5G Network` security at the University of Texas Arlington `Information Coding and Security Lab`. My skills are not confined to just programming; they extend to critical domains like `Natural Language Processing`, `Conversational AI`, and `Quantum Computing`. I am also assigned a new task `Multimodal Personality` under [`ACL Lab`](https://acl-group.github.io/). I've collaborated on pivotal projects that have allowed me to use my skills in backend development, agile methodologies, and DevOps. 
 
-[`Portfolio`](https://www.abhisekjha.com.np/) [`Resume`](https://drive.google.com/file/d/1L7UM-z5xRRSd6ie7xSVDUukModBxB13Q/view)) 
+# [`Portfolio`](https://www.abhisekjha.com.np/) [`Resume`](https://drive.google.com/file/d/1L7UM-z5xRRSd6ie7xSVDUukModBxB13Q/view) 
 
 
 I'm passionate about leveraging my skill set to tackle innovative projects and advance the technological landscape.
