@@ -18,7 +18,7 @@ I'm passionate about leveraging my skill set to tackle innovative projects and a
 `5G Networks` `Natural Language Processing` `Conversational AI` `Quantum Computing` `Internet Security` 
 
 <details>
-<summary>👨‍🚀  Loading...</summary>
+<summary>👨‍🚀  More...</summary>
        
 ![Visitor Count](https://komarev.com/ghpvc/?username=abhisekjha&color=blue)
 
