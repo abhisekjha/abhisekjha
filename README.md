@@ -47,8 +47,6 @@ I'm passionate about leveraging my skill set to tackle innovative projects and a
 ### 🛠️ Infrastructure/Automation Tools:
 <p>
   <img src="https://simpleicons.org/icons/googlecloud.svg" alt="Google Cloud" width="30" height="30"/>
-  <img src="https://simpleicons.org/icons/kubernetes.svg" alt="Kubernetes" width="30" height="30"/>
-  <img src="https://simpleicons.org/icons/docker.svg" alt="Docker" width="30" height="30"/>
   <img src="https://simpleicons.org/icons/github.svg" alt="GitHub" width="30" height="30"/>
   <img src="https://simpleicons.org/icons/jenkins.svg" alt="Jenkins" width="30" height="30"/>
 </p>
