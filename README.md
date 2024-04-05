@@ -4,6 +4,7 @@ I am a Computer Science enthusiast with a background in backend development, sec
 
 ### [`Portfolio`](https://www.abhisekjha.com.np/) [`Resume`](https://drive.google.com/file/d/1L7UM-z5xRRSd6ie7xSVDUukModBxB13Q/view) 
 
+I am interested in Internship or Part-time Opportunities for the Summer 2024 and Fall 2024. Free fell to reach out.
 
 I'm passionate about leveraging my skill set to tackle innovative projects and advance the technological landscape.
 
