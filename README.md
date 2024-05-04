@@ -7,7 +7,7 @@
 <a href="https://www.abhisekjha.com.np">
     <img src="https://img.shields.io/badge/Website-abhisekjha.com.np-red?style=flat-square">
 </a>
-<a href="https://abhisekjha.com.np/Resume.pdf">
+<a href="https://drive.google.com/file/d/1L7UM-z5xRRSd6ie7xSVDUukModBxB13Q/view">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=googledrive">
 </a>
 <a href="https://www.linkedin.com/in/abhisekkumarjha/">
