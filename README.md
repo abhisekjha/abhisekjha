@@ -1,4 +1,24 @@
-### 👋 Hello World, I'm Abhisek
+<p align="center">
+<a href="https://github.com/abhisekjha">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=2000&pause=100&multiline=true&color=000000&width=700&height=120&lines=👋+Hello+World,+I'm+Abhisek+Kumar+Jha;Researcher+%7C+Undergraduate+Student;Exploring+Internet+Security+%7C+5G+%7C+NLP;Conversational+AI+%7C+Quantum+Computing;" alt="Typing SVG" />
+</a>
+<br/>
+
+<a href="https://www.abhisekjha.com.np">
+    <img src="https://img.shields.io/badge/Website-abhisekjha.com.np-red?style=flat-square">
+</a>
+<a href="https://abhisekjha.com.np/Resume.pdf">
+    <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=googledrive">
+</a>
+<a href="https://www.linkedin.com/in/abhisekkumarjha/">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+</a>
+<a href="mailto:abhisekjha202094@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+</a>
+
+<br/>
+
 
 I am a Computer Science enthusiast with a background in backend development, security, and research, currently enriching the in field of `5G Network` security at the University of Texas at Arlington ` Data Security and Privacy Lab`. My skills are not confined to just programming; they extend to critical domains like `Natural Language Processing`, `Conversational AI`, and `Quantum Computing`. I am also assigned a new task `Multimodal Personality` under [`ACL² Lab`](https://acl-group.github.io/). I have collaborated on pivotal projects that have allowed me to use my skills in backend development, agile methodologies, and DevOps. 
 
