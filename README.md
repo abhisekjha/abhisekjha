@@ -18,8 +18,6 @@
 </a>
 
 <br/>
-
-
 I am a Computer Science enthusiast with a background in backend development, security, and research, currently enriching the in field of `5G Network` security at the University of Texas at Arlington ` Data Security and Privacy Lab`. My skills are not confined to just programming; they extend to critical domains like `Natural Language Processing`, `Conversational AI`, and `Quantum Computing`. I am also assigned a new task `Multimodal Personality` under [`ACL² Lab`](https://acl-group.github.io/). I have collaborated on pivotal projects that have allowed me to use my skills in backend development, agile methodologies, and DevOps. 
 
 ### [`Portfolio`](https://www.abhisekjha.com.np/) [`Resume`](https://drive.google.com/file/d/1L7UM-z5xRRSd6ie7xSVDUukModBxB13Q/view) 
@@ -31,7 +29,9 @@ I'm passionate about leveraging my skill set to tackle innovative projects and a
 ### 📊 GitHub Stats:
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=abhisekjha&show_icons=true&theme=light" alt="GitHub Stats" height="180em"/>
+    <a href="https://github.com/abhisekjha">
+    <img src="https://github-readme-stats-alpha.vercel.app/api?username=abhisekjha&show_icons=true&theme=light"alt="GitHub Stats" height="180em"/>
+</a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisekjha&theme=light" alt="Top Languages" height="180em"/>
 </p>
 
