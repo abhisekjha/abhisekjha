@@ -7,7 +7,7 @@
 <a href="https://www.abhisekjha.com.np">
     <img src="https://img.shields.io/badge/Website-abhisekjha.com.np-red?style=flat-square">
 </a>
-<a href="https://drive.google.com/file/d/1L7UM-z5xRRSd6ie7xSVDUukModBxB13Q/view">
+<a href="https://drive.google.com/file/d/1v4oU-dN2Q1AZhtHXsQq21FxmrJYEhKK7/view">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=googledrive">
 </a>
 <a href="https://www.linkedin.com/in/abhisekkumarjha/">
@@ -20,7 +20,7 @@
 
 I am a Computer Science enthusiast with a background in backend development, security, and research, currently enriching the in field of `5G Network` security at the University of Texas at Arlington ` Data Security and Privacy Lab`. My skills are not confined to just programming; they extend to critical domains like `Natural Language Processing`, `Conversational AI`, and `Quantum Computing`. I am also assigned a new task `Multimodal Personality` under [`ACL² Lab`](https://acl-group.github.io/). I have collaborated on pivotal projects that have allowed me to use my skills in backend development, agile methodologies, and DevOps. 
 
-### [`Portfolio`](https://www.abhisekjha.com.np/) [`Resume`](https://drive.google.com/file/d/1L7UM-z5xRRSd6ie7xSVDUukModBxB13Q/view) 
+### [`Portfolio`](https://www.abhisekjha.com.np/) [`Resume`](https://drive.google.com/file/d/1v4oU-dN2Q1AZhtHXsQq21FxmrJYEhKK7/view) 
 
 I am interested in Internship or any Part-time Opportunities for the Summer 2024 and Fall 2024. Free fell to reach out. My `RESUME` is above.
 
