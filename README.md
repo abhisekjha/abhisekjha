@@ -42,6 +42,8 @@ I'm passionate about leveraging my skill set to tackle innovative projects and a
 <summary>👨‍🚀  More...</summary>
        
 ![Visitor Count](https://komarev.com/ghpvc/?username=abhisekjha&color=blue)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fabhisekjha%2Fbing_image_downloader&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 ### 💻 Programming Languages:
 <p>
