@@ -20,7 +20,7 @@
 
 I am a Computer Science enthusiast with a background in backend development, security, and research, currently enriching the in field of `5G Network` security at the University of Texas at Arlington ` Data Security and Privacy Lab`. My skills are not confined to just programming; they extend to critical domains like `Natural Language Processing`, `Conversational AI`, and `Quantum Computing`. I have collaborated on pivotal projects that have allowed me to use my skills in backend development, agile methodologies, and DevOps. 
 
-### [`Portfolio`](https://www.abhisekjha.com.np/) [`Resume`](https://drive.google.com/file/d/1RjEQaxmL_mT6SfoXiWD6W4yU-4upv558/view) 
+### [`Portfolio`](https://www.abhisekjha.com.np/) [`Resume`](https://drive.google.com/file/d/1e9flxiTTgHxoPXE7QxhRSqq9V4L6BS7_/view) 
 
 I am interested in Internship or Part-time Opportunities for the Summer 2024 and Fall 2024. Free fell to reach out. My `RESUME` is above.
 
