@@ -22,8 +22,6 @@ I am a Computer Science enthusiast with a background in backend development, sec
 
 ### [`Portfolio`](https://www.abhisekjha.com.np/) [`Resume`](https://drive.google.com/file/d/1e9flxiTTgHxoPXE7QxhRSqq9V4L6BS7_/view) 
 
-I am interested in Internship or Part-time Opportunities for the Summer 2024 and Fall 2024. Free fell to reach out. My `RESUME` is above.
-
 I'm passionate about leveraging my skill set to tackle innovative projects and advance the technological landscape.
 
 ### 📊 GitHub Stats:
