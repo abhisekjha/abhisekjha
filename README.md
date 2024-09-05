@@ -16,6 +16,13 @@
 <a href="mailto:abhisekjha202094@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
+ </a>
+  <a href="https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID">
+    <img src="https://img.shields.io/badge/Google%20Scholar-Scholar-blue?style=flat-square&logo=google-scholar">
+  </a>
+  <a href="https://orcid.org/YOUR_ORCID_ID">
+    <img src="https://img.shields.io/badge/ORCID-ID-green?style=flat-square&logo=orcid">
+  </a>
 <br/>
 
 I'm a Computer Science enthusiast with a background in backend development, security, and research, currently enriching the in field of `5G Network`, and future Generation Network security at the University of Texas at Arlington ` Data Security and Privacy Lab`. My skills are not confined to just programming; they extend to critical domains like `Natural Language Processing`, `Conversational AI`, and `Quantum Computing`. I have collaborated on pivotal projects that have allowed me to use my skills in backend development, agile methodologies, and DevOps. 
