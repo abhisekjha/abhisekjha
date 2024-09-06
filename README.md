@@ -54,7 +54,7 @@ I'm passionate about leveraging my skill set to tackle innovative projects and a
   <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="30" height="30"/>
   <img src="https://simpleicons.org/icons/python.svg" alt="Python" width="30" height="30"/>
   <img src="https://simpleicons.org/icons/cplusplus.svg" alt="C++" width="30" height="30"/>
-  <img src="https://simpleicons.org/icons/csharp.svg" alt="C#" width="30" height="30"/>
+  <img src="[https://simpleicons.org/icons/csharp.svg](https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg)" alt="C#" width="30" height="30"/>
   <img src="https://simpleicons.org/icons/php.svg" alt="PHP" width="30" height="30"/>
 </p>
 
