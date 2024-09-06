@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/abhisekjha">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=2000&pause=100&multiline=true&color=000000&width=900&height=200&lines=👋+Hello+World,+I'm+Abhisek+Kumar+Jha;Researcher+%7C+Undergraduate+Student;Exploring+Internet+Security+%7C+5G+%7C+NLP;Currently+Building+MiRA-Assistant;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=2000&pause=100&multiline=true&color=000000&width=900&height=200&lines=👋+Hello+World,+I'm+Abhisek+Kumar+Jha;Researcher+%7C+Undergraduate+Student;Exploring+Internet+Security+%7C+5G+%7C+NLP;" alt="Typing SVG" />
 </a>
 <br/>
 
