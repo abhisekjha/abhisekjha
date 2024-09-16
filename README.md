@@ -29,7 +29,7 @@ I'm a Computer Science enthusiast with a background in backend development, cybe
 
 ### [`Portfolio`](https://www.abhisekjha.com.np/) [`Resume`](https://drive.google.com/file/d/1uxRuhOjSiDYr-SeqsVDqNjBNLCJ5KmWm/view?usp=sharing) [`Google Scholar`](https://scholar.google.com/citations?hl=en&user=B36hivsAAAAJ)
 
-I'm passionate about leveraging my skill set to tackle innovative projects and advance the technological landscape.
+I'm passionate about leveraging my skill set to tackle innovative projects and advance the technological landscape. Let's connect and learn together!
 
 ### 📊 GitHub Stats:
 
