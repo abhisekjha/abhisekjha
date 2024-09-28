@@ -7,7 +7,7 @@
 <a href="https://www.abhisekjha.com.np">
     <img src="https://img.shields.io/badge/Website-abhisekjha.com.np-red?style=flat-square">
 </a>
-<a href="https://drive.google.com/file/d/1uxRuhOjSiDYr-SeqsVDqNjBNLCJ5KmWm/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1xeTUlu7YzGj3a4vqDwVc6Zxh75900EfU/view">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=googledrive">
 </a>
 <a href="https://www.linkedin.com/in/abhisekkumarjha/">
@@ -27,7 +27,7 @@
 
 I'm a Computer Science enthusiast with a background in backend development, cybersecurity, and research, currently enriching the in field of `5G Network`, and future Generation Network security at the University of Texas at Arlington ` Data Security and Privacy Lab`. My skills are not confined to just programming; they extend to critical domains like `Natural Language Processing`, `Conversational AI`, and `Quantum Computing`. I have collaborated on pivotal projects that have allowed me to use my skills in backend development, agile methodologies, and DevOps. 
 
-### [`Portfolio`](https://www.abhisekjha.com.np/) [`Resume`](https://drive.google.com/file/d/1uxRuhOjSiDYr-SeqsVDqNjBNLCJ5KmWm/view?usp=sharing) [`Google Scholar`](https://scholar.google.com/citations?hl=en&user=B36hivsAAAAJ)
+### [`Portfolio`](https://www.abhisekjha.com.np/) [`Resume`](https://drive.google.com/file/d/1xeTUlu7YzGj3a4vqDwVc6Zxh75900EfU/view) [`Google Scholar`](https://scholar.google.com/citations?hl=en&user=B36hivsAAAAJ)
 
 I'm passionate about leveraging my skill set to tackle innovative projects and advance the technological landscape. Let's connect and learn together!
 
