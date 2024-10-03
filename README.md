@@ -25,7 +25,7 @@
   </a>
 <br/>
 
-I'm a Computer Science enthusiast with a background in backend development, cybersecurity, and research, currently enriching the in field of `5G Network`, and future Generation Network security at the University of Texas at Arlington ` Data Security and Privacy Lab`. My skills are not confined to just programming; they extend to critical domains like `Natural Language Processing`, `Conversational AI`, and `Quantum Computing`. I have collaborated on pivotal projects that have allowed me to use my skills in backend development, agile methodologies, and DevOps. 
+I'm a Computer Science enthusiast with a background in backend development, and cybersecurity, currently enriching the in field of `5G Network`, and future Generation Network security at the University of Texas at Arlington ` Data Security and Privacy Lab`. My skills are not confined to just programming; they extend to critical domains like `Natural Language Processing`, `Conversational AI`, and `Quantum Computing`. I have collaborated on pivotal projects that have allowed me to use my skills in backend development, agile methodologies, and DevOps. 
 
 ### [`Portfolio`](https://www.abhisekjha.com.np/) [`Resume`](https://drive.google.com/file/d/1xeTUlu7YzGj3a4vqDwVc6Zxh75900EfU/view) [`Google Scholar`](https://scholar.google.com/citations?hl=en&user=B36hivsAAAAJ)
 
