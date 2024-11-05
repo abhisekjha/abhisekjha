@@ -7,8 +7,12 @@
 <a href="https://www.abhisekjha.com.np">
     <img src="https://img.shields.io/badge/Website-abhisekjha.com.np-red?style=flat-square">
 </a>
-<a href="https://drive.google.com/file/d/1xeTUlu7YzGj3a4vqDwVc6Zxh75900EfU/view">
-    <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=googledrive">
+</a>
+  <a href="https://orcid.org/0009-0009-6110-3031">
+    <img src="https://img.shields.io/badge/ORCID-ID-green?style=flat-square&logo=orcid">
+  </a>
+<a href="https://drive.google.com/file/d/1eMUpcuYmVas7QJEDKxsdSMiUn5q5PDma/view">
+    <img src="https://img.shields.io/badge/PDF-CV-blue?style=flat-square&logo=googledrive">
 </a>
 <a href="https://www.linkedin.com/in/abhisekkumarjha/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
