@@ -11,7 +11,7 @@
   <a href="https://orcid.org/0009-0009-6110-3031">
     <img src="https://img.shields.io/badge/ORCID-ID-green?style=flat-square&logo=orcid">
   </a>
-<a href="https://drive.google.com/file/d/1eMUpcuYmVas7QJEDKxsdSMiUn5q5PDma/view">
+<a href="https://drive.google.com/file/d/1-eqZGQRFtd7c6k5H5Y0Zyo4AoQIldETK/view?usp=sharing">
     <img src="https://img.shields.io/badge/PDF-CV-blue?style=flat-square&logo=googledrive">
 </a>
 <a href="https://www.linkedin.com/in/abhisekkumarjha/">
