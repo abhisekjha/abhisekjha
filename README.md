@@ -16,7 +16,7 @@ MiRA, DataSphere, Multipath, Network Security
 </a>
 <a href="https://drive.google.com/file/d/1ZjLcJziz9Pn5_rk2JnoqlwF8CkHG51Vn/view
 ">
-    <img src="https://img.shields.io/badge/PDF-CV-blue?style=flat-square&logo=googledrive">
+    <img src="https://img.shields.io/badge/PDF-Resume-black?style=flat-square&logo=googledrive">
 </a>
 <a href="https://www.linkedin.com/in/abhisekkumarjha/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
