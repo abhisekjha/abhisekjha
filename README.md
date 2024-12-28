@@ -1,5 +1,5 @@
 <p align="center">
-MiRA, DataSphere, Multipath, Network Security
+Trying to make this world a better place, one product at a time.
 </a>
 
 <br/>
