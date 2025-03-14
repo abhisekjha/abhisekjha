@@ -4,11 +4,6 @@ Trying to make this world a better place, one product at a time.
 
 <br/>
 
-</a>
-  <a href="https://orcid.org/0009-0009-6110-3031">
-    <img src="https://img.shields.io/badge/ORCID-ID-green?style=flat-square&logo=orcid">
-  </a>
-
 <a href="https://drive.google.com/file/d/1Q8MuOgbZrvAqOHb4kvbD4nNkZutSUiym/view?usp=sharing">
     <img src="https://img.shields.io/badge/PDF-Resume-black?style=flat-square&logo=googledrive">
 </a>
@@ -19,9 +14,6 @@ Trying to make this world a better place, one product at a time.
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
  </a>
-  <a href="https://scholar.google.com/citations?hl=en&user=B36hivsAAAAJ">
-    <img src="https://img.shields.io/badge/Google%20Scholar-Scholar-blue?style=flat-square&logo=google-scholar">
-  </a>
   <a href="https://orcid.org/0009-0009-6110-3031">
     <img src="https://img.shields.io/badge/ORCID-ID-green?style=flat-square&logo=orcid">
   </a>
