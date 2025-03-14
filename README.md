@@ -4,9 +4,6 @@ Trying to make this world a better place, one product at a time.
 
 <br/>
 
-<a href="https://www.abhisekjha.com.np">
-    <img src="https://img.shields.io/badge/Website-abhisekjha.com.np-red?style=flat-square">
-</a>
 </a>
   <a href="https://orcid.org/0009-0009-6110-3031">
     <img src="https://img.shields.io/badge/ORCID-ID-green?style=flat-square&logo=orcid">
