@@ -4,9 +4,7 @@ Trying to make this world a better place, one product at a time.
 
 <br/>
 
-<a href="https://drive.google.com/file/d/1Q8MuOgbZrvAqOHb4kvbD4nNkZutSUiym/view?usp=sharing">
-    <img src="https://img.shields.io/badge/PDF-Resume-black?style=flat-square&logo=googledrive">
-</a>
+
 <a href="https://www.linkedin.com/in/abhisekkjha/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
